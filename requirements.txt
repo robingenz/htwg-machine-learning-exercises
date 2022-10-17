@@ -4,3 +4,4 @@ ipykernel==6.16.0
 matplotlib==3.6.1
 version-information==1.0.4
 wget==3.2
+seaborn==0.12.0
